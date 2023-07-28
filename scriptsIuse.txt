@@ -25,7 +25,7 @@ game.StarterGui:SetCore("SendNotification",  {
  Callback = NotificationBindable;
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuhwahScripts/ArsenalBoltsHub/main/source"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DuhwahScripts/ArsenalBoltsHub/main/source%22))()loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/o5u3/PLS-Donate/main/Fake-Donate.lua%22)))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/tzechco%22))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
@@ -44,20 +44,21 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Dvrknvss/UniversalFES
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 loadstring(game:HttpGet('https://pastebin.com/raw/EtCuFA35'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jonathan-2k/Public-Scripts/main/Crumbleware%20Alpha%22))() 
-Dahood scr
+Dahood scripts
 loadstring(game:HttpGet('https://raw.githubusercontent.com/SpaceYes/Lua/Main/DaHood.Lua'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Whitelist.txt%22))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zinzs/luascripting/main/canyoutellitsadahoodscriptornot.lua%22))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Whitelist.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zinzs/luascripting/main/canyoutellitsadahoodscriptornot.lua"))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/AirHub.lua%22))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/AirHub.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/DEVIL-Hub-Main", true))()
-
 https://www.roblox.com/games/2788229376/Da-Hood?
 privateServerLinkCode=66030940130646290440503762354425
 https://www.roblox.com/games/2788229376/Da-Hood?privateServerLinkCode=56456158652023547985087939896962
 https://www.mastersmzscripts.com/forum/mastersmz-scripts
+
 Translate script
+
 pcall(function()
   loadstring(
       --[[
@@ -91,7 +92,9 @@ A ton of scripts
   )();
 end)
 
+And then we got 
 tons of script
+
 wait(0.2)
 local function callback(text)
     if text == "Yes" then
