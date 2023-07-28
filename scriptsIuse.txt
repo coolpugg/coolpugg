@@ -41,9 +41,6 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/JOEXVERS/DUSTY-PAID/ma
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MiniNoobie/MINI-HUB-V2/main/FINALLY%20UPDATED%20MINI%20HUB%22,true))()
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/yuh95/Yuri-X/main/5.0%22),true))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script'))()
-veporo2709@hrisland.com coolpugman
-hestonadro@gufum.com coolpugman
-https://www.youtube.com/@aqumaqqezzz/about
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 loadstring(game:HttpGet('https://pastebin.com/raw/EtCuFA35'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jonathan-2k/Public-Scripts/main/Crumbleware%20Alpha%22))() 
