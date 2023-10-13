@@ -1,48 +1,77 @@
 The best script to use is discord.gg/swimhub
 These are free script I found:
 
-
+random script for trident ig;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VenomScriptsV/ts/main/0.1", true))()
+big paint ball;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/arlists/Sky-Hub/main/Main", true))()
+old trident script;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Desktop2677/Tridentsense/main/Script.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jaepe/Visurus/main/scripts/Ohio.lua%22))()
+Ohio script;
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jaepe/Visurus/main/scripts/Ohio.lua"))()
+Op my restaurant script;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/MyRestaurant"))()
+Esp for all games or a random script;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded-Grid/main/YesEpic", true))()
-
+Arsenal script;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuhwahScripts/ArsenalBoltsHub/main/source"))()
+Script hub;
 loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+Pls doantescript;
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/o5u3/PLS-Donate/main/Fake-Donate.lua")))()
+pls doante script;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/tzechco"))()
+bedwars script;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+pls donate script I think;
 loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
+dahood script;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/cdhc/main/gui"))()
+dahood script;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/Counter/main/Cash"))()
-https://animefreak.to/animefreak.tv/
+I forgot;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Juixy0S/Scripts/main/Delta.lua"))();
+I forgot;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Alendaa/Scripts/main/Hub",true))();
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua%"))
+I forgot;
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"))
 ()
+old trident script;
 loadstring(game:HttpGet"https://raw.githubusercontent.com/JOEXVERS/DUSTY-PAID/main/DUSTY%20PAID", true)()
+script hub I think;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MiniNoobie/MINI-HUB-V2/main/FINALLY%20UPDATED%20MINI%20HUB%22,true))()
+old trident script;
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/yuh95/Yuri-X/main/5.0"),true))()
+script hub;
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script'))()
-
+admin gui;
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+I forgot;
 loadstring(game:HttpGet('https://pastebin.com/raw/EtCuFA35'))()
+Crumbleware crack;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jonathan-2k/Public-Scripts/main/Crumbleware%20Alpha))() 
-Dahood scr
+da hood script;
 loadstring(game:HttpGet('https://raw.githubusercontent.com/SpaceYes/Lua/Main/DaHood.Lua'))()
+da hood script;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood", true))()
+da hood script;				
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Whitelist.txt"))()
+da hood script;				
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zinzs/luascripting/main/canyoutellitsadahoodscriptornot.lua"))()
+best da hood script;				
 loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
+I forgot;				
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/DEVIL-Hub-Main", true))()
-
-https://www.roblox.com/games/2788229376/Da-Hood?
+				
+Da hood private servers;
 privateServerLinkCode=66030940130646290440503762354425
 https://www.roblox.com/games/2788229376/Da-Hood?privateServerLinkCode=56456158652023547985087939896962
+				
+script website;
 https://www.mastersmzscripts.com/forum/mastersmz-scripts
-Translate script
+				
+Translate script;
+				
 pcall(function()
   loadstring(
       --[[
@@ -67,8 +96,9 @@ pcall(function()
       - Ill make it so it auto detects language of chat upon click
       - yes thats it
       --]]
-A ton of scripts
-
+							
+A ton of scripts;
+							
       game:HttpGet(
           'https://raw.githubusercontent.com/PivotEngine/cool_scripts/main/Pedro.exe',
           true
