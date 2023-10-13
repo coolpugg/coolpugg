@@ -7,3 +7,5 @@
 -If you want go to https://paste.protogen.gay/jopizupewa.php for the same thing but easier to read!
 
 -The link is outdated but still got 99% of the scripts
+
+-I got Trident Bypass and 64bit Bypass too
