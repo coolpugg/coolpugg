@@ -1,64 +1,48 @@
+The best script to use is discord.gg/swimhub
+These are free script I found:
+
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VenomScriptsV/ts/main/0.1", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arlists/Sky-Hub/main/Main", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Desktop2677/Tridentsense/main/Script.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jaepe/Visurus/main/scripts/Ohio.lua%22))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/MyRestaurant%22))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/MyRestaurant"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded-Grid/main/YesEpic", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Drrushh/Drrushh/main/Kdom%22,true))();
-local function callback(Text)
- if Text == "Button1 text" then
-  print ("Wellcome")
-elseif Text == ("Button2 text") then
- print ("Thanks")
- end
-end
 
-local NotificationBindable = Instance.new("BindableFunction")
-NotificationBindable.OnInvoke = callback
---
-game.StarterGui:SetCore("SendNotification",  {
- Title = "SUPERSONIC";
- Text = "SUBSCRIBE TO SUPERSONIC GAMERZ";
- Icon = "";
- Duration = 30;
- Button1 = "Ok";
- Button2 = "no";
- Callback = NotificationBindable;
-})
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuhwahScripts/ArsenalBoltsHub/main/source"))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/o5u3/PLS-Donate/main/Fake-Donate.lua%22)))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/tzechco%22))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/o5u3/PLS-Donate/main/Fake-Donate.lua")))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/tzechco"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
-loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader%22)()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/cdhc/main/gui%22))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/Counter/main/Cash%22))()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/cdhc/main/gui"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/Counter/main/Cash"))()
 https://animefreak.to/animefreak.tv/
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Juixy0S/Scripts/main/Delta.lua%22))();
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Alendaa/Scripts/main/Hub%22,true))();
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua%22))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Juixy0S/Scripts/main/Delta.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alendaa/Scripts/main/Hub",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua%"))
 ()
 loadstring(game:HttpGet"https://raw.githubusercontent.com/JOEXVERS/DUSTY-PAID/main/DUSTY%20PAID", true)()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MiniNoobie/MINI-HUB-V2/main/FINALLY%20UPDATED%20MINI%20HUB%22,true))()
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/yuh95/Yuri-X/main/5.0%22),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/yuh95/Yuri-X/main/5.0"),true))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script'))()
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 loadstring(game:HttpGet('https://pastebin.com/raw/EtCuFA35'))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jonathan-2k/Public-Scripts/main/Crumbleware%20Alpha%22))() 
-Dahood scripts
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jonathan-2k/Public-Scripts/main/Crumbleware%20Alpha))() 
+Dahood scr
 loadstring(game:HttpGet('https://raw.githubusercontent.com/SpaceYes/Lua/Main/DaHood.Lua'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Whitelist.txt"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zinzs/luascripting/main/canyoutellitsadahoodscriptornot.lua"))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/AirHub.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/DEVIL-Hub-Main", true))()
+
 https://www.roblox.com/games/2788229376/Da-Hood?
 privateServerLinkCode=66030940130646290440503762354425
 https://www.roblox.com/games/2788229376/Da-Hood?privateServerLinkCode=56456158652023547985087939896962
 https://www.mastersmzscripts.com/forum/mastersmz-scripts
-
 Translate script
-
 pcall(function()
   loadstring(
       --[[
@@ -92,9 +76,7 @@ A ton of scripts
   )();
 end)
 
-And then we got 
 tons of script
-
 wait(0.2)
 local function callback(text)
     if text == "Yes" then
