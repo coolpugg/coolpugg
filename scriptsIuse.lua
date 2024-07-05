@@ -2,7 +2,7 @@ The best script to use is discord.gg/swimhub
 These are free script I found:
 
 HOHO:loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
-JailBreak: loadstring(game:HttpGet('https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/AutoRobV5'))()
+JailBreak: loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/AutoRobV4Release"))()
 Arsenal: loadstring(game:HttpGet("https://raw.githubusercontent.com/laeraz/midnightcc/main/public.lua"))()
 Best dahood script: loadstring(game:HttpGet("https://downfall.lol/loader.lua"))()
 best dahood scriptpart2: getgenv().Settings = {
