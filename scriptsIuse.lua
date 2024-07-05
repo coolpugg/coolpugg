@@ -1,6 +1,17 @@
 The best script to use is discord.gg/swimhub
 These are free script I found:
 
+HOHO:loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+JailBreak: loadstring(game:HttpGet('https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/AutoRobV5'))()
+Arsenal: loadstring(game:HttpGet("https://raw.githubusercontent.com/laeraz/midnightcc/main/public.lua"))()
+Best dahood script: loadstring(game:HttpGet("https://downfall.lol/loader.lua"))()
+best dahood scriptpart2: getgenv().Settings = {
+    ["sigma"] = "This is a free script, if you paid for it you got scammed lol, https://discord.gg/gDuYQ4DhaR",
+    ["Effects"] = true, -- portal etc (CLIENTSIDED!)
+    ["AutoGetTools After Death"] = true 
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skbiditoiletrizz327/skbiditoiletrizz327.github.io/main/%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2"))()
+
 random script for trident ig;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VenomScriptsV/ts/main/0.1", true))()
 big paint ball;
