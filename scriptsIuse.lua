@@ -11,7 +11,7 @@ best dahood scriptpart2: getgenv().Settings = {
     ["AutoGetTools After Death"] = true 
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/skbiditoiletrizz327/skbiditoiletrizz327.github.io/main/%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2%F0%9F%98%A2"))()
-
+dahood: loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
 random script for trident ig;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VenomScriptsV/ts/main/0.1", true))()
 big paint ball;
